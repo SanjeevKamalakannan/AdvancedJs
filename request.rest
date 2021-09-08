@@ -1,0 +1,22 @@
+
+GET http://localhost:3000/getbattles
+
+###
+GET http://localhost:3000/getprizes
+
+###
+//POST http://localhost:3000/getgithub
+//Content-Type: application/json
+
+//{
+//  "name": "python"
+//}
+
+###
+//GET http://localhost:3000/getmovies
+
+###
+GET http://localhost:3000/getqueens
+
+###
+GET http://localhost:3000/getgithubdata
